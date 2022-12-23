@@ -1,0 +1,11 @@
+name: general
+title: Allgemein
+version: latest
+display_version: "latest"
+general:
+  attributes:
+    source-language: asciidoc@
+    xrefstyle: short@
+nav:
+- modules/ROOT/nav.adoc
+

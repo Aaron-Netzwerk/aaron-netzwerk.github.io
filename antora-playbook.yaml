@@ -1,0 +1,28 @@
+site:
+  title: Aaron Netzwerk
+  url: https://aaron-netzwerk.github.io/
+  start_page: general::index.adoc 
+content:
+  sources:
+  - url: ./
+    start_path: docs/general
+  - url: ./
+    start_path: docs/audio
+  - url: ./
+    start_path: docs/video
+  - url: ./
+    start_path: docs/projection
+  - url: ./
+    start_path: docs/lights
+  - url: ./
+    start_path: docs/infrastructure
+  - url: ./
+    start_path: docs/others
+  - url: ./
+    start_path: docs/print
+  - url: ./
+    start_path: docs/webdesign
+ui:
+  bundle:
+    url: https://github.com/Aaron-Netzwerk/antora-ui/releases/download/v1.0.0/ui-bundle.zip
+  default_layout: default

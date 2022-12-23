@@ -1,0 +1,9 @@
+name: lights
+title: Licht-Technik
+version: latest
+lights:
+  attributes:
+    source-language: asciidoc@
+    xrefstyle: short@
+nav:
+- modules/ROOT/nav.adoc

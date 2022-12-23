@@ -1,0 +1,10 @@
+name: video
+title: Video-Technik
+version: latest
+video:
+  attributes:
+    source-language: asciidoc@
+    xrefstyle: short@
+nav:
+- modules/ROOT/nav.adoc
+

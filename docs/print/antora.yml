@@ -1,0 +1,10 @@
+name: print
+title: Print-Medien
+version: latest
+print:
+  attributes:
+    source-language: asciidoc@
+    xrefstyle: short@
+nav:
+- modules/ROOT/nav.adoc
+

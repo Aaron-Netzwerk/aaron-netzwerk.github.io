@@ -1,0 +1,10 @@
+name: projection
+title: Bild-Technik
+version: latest
+projection:
+  attributes:
+    source-language: asciidoc@
+    xrefstyle: short@
+nav:
+- modules/ROOT/nav.adoc
+

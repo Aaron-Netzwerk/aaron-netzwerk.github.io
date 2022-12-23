@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "antora generate --clean antora-playbook.yaml"
+  },
+  "devDependencies": {
+    "@antora/cli": "3.1.2",
+    "@antora/site-generator": "3.1.2"
+  }
+}

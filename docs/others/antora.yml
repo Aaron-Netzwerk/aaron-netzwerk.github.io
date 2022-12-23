@@ -1,0 +1,10 @@
+name: others
+title: Sonstiges
+version: latest
+others:
+  attributes:
+    source-language: asciidoc@
+    xrefstyle: short@
+nav:
+- modules/ROOT/nav.adoc
+
