@@ -1,4 +1,8 @@
+.Erste Schritte
 * xref:index.adoc[Das Aaron Netzwerk]
+* xref:how-to-contribute:index.adoc[]
+
+.Bereiche
 * xref:audio:ROOT:index.adoc[]
 * xref:video:ROOT:index.adoc[]
 * xref:projection:ROOT:index.adoc[]

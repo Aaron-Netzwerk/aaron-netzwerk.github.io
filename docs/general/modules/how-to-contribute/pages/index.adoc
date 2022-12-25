@@ -1,0 +1,10 @@
+= Wie kann ich mich beteiligen?
+
+Damit unsere Wissensdatenbank sich füllt, sind wir auf eure Erfahrungen angewiesen.
+TBD
+
+== Vorraussetzungen
+* Github Account
+
+== AsciiDoc
+* Verschiedene Beispiele
