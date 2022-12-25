@@ -6,5 +6,5 @@ projection:
     source-language: asciidoc@
     xrefstyle: short@
 nav:
-- modules/ROOT/nav.adoc
+- modules/nav.adoc
 

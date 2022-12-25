@@ -1,0 +1,4 @@
+= Propresenter
+
+Propresenter ist eine Bildübertragungssoftware, welche in vielen Gemeinden erfolgreich genutzt wird.
+Hier werden künftig weitere Informationen zu dieser Software stehen.
