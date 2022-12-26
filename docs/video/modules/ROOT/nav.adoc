@@ -1,2 +1,3 @@
 * xref:index.adoc[]
 * xref:obs:index.adoc[]
+* xref:youtube:index.adoc[]
