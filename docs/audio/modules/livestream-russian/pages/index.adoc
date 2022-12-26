@@ -1,0 +1,15 @@
+= Russische Übersetzung
+
+Der Bedarf eine russische Übersetzung in der Gemeinde anzubieten ist enorm gestiegen. Wir stellen einige Lösungen vor, wie dies bewerkstelligt werden kann.
+
+== Empfohlene Funkgeräte
+
+TBD
+
+== LiveVoice
+
+TBD
+
+== IceCast2 - Über WLAN bereitstellen
+
+TBD
